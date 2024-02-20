@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rom_Kir_pr_1_v2022_net_8_0", "Rom_Kir_pr_1_v2022_net_8_0\Rom_Kir_pr_1_v2022_net_8_0.csproj", "{882C2CF6-FCA5-4F3B-81BB-A0C1F1B86167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882C2CF6-FCA5-4F3B-81BB-A0C1F1B86167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882C2CF6-FCA5-4F3B-81BB-A0C1F1B86167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882C2CF6-FCA5-4F3B-81BB-A0C1F1B86167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882C2CF6-FCA5-4F3B-81BB-A0C1F1B86167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558F6838-57F2-42BD-A02C-8A7A7D465B96}
+	EndGlobalSection
+EndGlobal
